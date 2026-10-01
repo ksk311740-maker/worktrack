@@ -1,0 +1,6 @@
+{
+  "name": "WorkTrack",
+  "description": "Video Editing Work Tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
